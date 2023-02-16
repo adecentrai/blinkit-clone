@@ -1,4 +1,4 @@
-# blinkit-clone
+# Blinkit Clone
 Blinkit Clone
 Blinkit Clone is an experiment to clone the features fo Blinkit for on-demand delivery services that is available in several major Indian cities, including Delhi. The website allows users to order a wide range of goods and services from local stores and restaurants and have them delivered directly to their doorstep.
 
